@@ -59,6 +59,8 @@ a {
 
 .footer {
   background: #eee;
+  display: flex;
+  margin: auto;
 }
 
 ul {
